@@ -3,13 +3,13 @@
   "name": "BOOST ADDIS - Restaurant & Bar Management System",
   "icons": [
     {
-      "src": "/oak-club-logo.png",
+      "src": "/boost-addis-logo.png",
       "type": "image/png",
       "sizes": "192x192 512x512 1024x1024",
       "purpose": "any"
     },
     {
-      "src": "/oak-club-logo.png",
+      "src": "/boost-addis-logo.png",
       "type": "image/png",
       "sizes": "192x192 512x512",
       "purpose": "maskable"

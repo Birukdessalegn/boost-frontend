@@ -159,7 +159,7 @@ function POSLayout() {
         <div className="flex h-20 items-center gap-3 border-b border-slate-800 px-5">
 
           <img
-            src="/oak-club-logo.png"
+            src="/boost-addis-logo.png"
             alt="Boost Addis"
             className="h-10 w-auto shrink-0 object-contain drop-shadow-md"
           />

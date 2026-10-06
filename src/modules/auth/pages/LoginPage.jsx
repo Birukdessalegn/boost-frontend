@@ -140,7 +140,7 @@ function LoginPage() {
         {/* Logo */}
         <div className="mb-6 text-center">
           <img
-            src="/oak-club-logo.png"
+            src="/boost-addis-logo.png"
             alt="Boost Addis Logo"
             className="mx-auto h-36 w-auto object-contain mix-blend-multiply drop-shadow-md"
           />

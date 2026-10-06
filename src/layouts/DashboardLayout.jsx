@@ -847,7 +847,7 @@ function DashboardLayout() {
           <div className="flex items-center gap-3 overflow-hidden">
 
             <img
-              src="/oak-club-logo.png"
+              src="/boost-addis-logo.png"
               alt="Boost Addis"
               className="h-10 w-auto shrink-0 object-contain drop-shadow-md"
             />
